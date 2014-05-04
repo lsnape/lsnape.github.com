@@ -1,3 +1,5 @@
+
+
 /* Custom container */
 .container-narrow {
     margin: 0 auto;
@@ -8,9 +10,10 @@
     margin: 30px 0;
 }
 
-.navbar .navbar-inner {
-    position: fixed;
-    float: left;
+.navbar {
+    margin: 0px 0px;
+    float: right;
+    font-family: "Verdana", "Bitstream Vera Sans" , sans-serif;;
 }
 
 h1,h2,h3,h4,h5 {
@@ -18,7 +21,7 @@ h1,h2,h3,h4,h5 {
 }
 
 body {
-    background-color: #fff3ed;
+    background-color: #e0ffe0;
     color: #444;
     font-size: 15px;
     font-family: "Verdana" , "Bitstream Vera Sans", sans-serif;
