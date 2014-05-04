@@ -1,13 +1,25 @@
 /* Custom container */
 .container-narrow {
-  margin: 0 auto;
-  max-width: 700px; }
+    margin: 0.5em auto;
+  max-width: 600px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
 
 .navbar .nav {
-  float: right; }
+    float: left; }
+
+h1,h2,h3,h4,h5 {
+    font-family: "Verdana", "Bitstream Vera Sans" , sans-serif;
+}
+
+body {
+    background-color: #fff3ed;
+    color: #444;
+    font-size: 15px;
+    font-family: "Verdana" , "Bitstream Vera Sans", sans-serif;
+    line-height: 1.600;
+}
 
 /* posts index */
 .post > h3.title {
